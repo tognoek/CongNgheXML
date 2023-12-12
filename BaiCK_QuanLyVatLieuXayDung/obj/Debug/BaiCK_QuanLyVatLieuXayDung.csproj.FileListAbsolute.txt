@@ -1,0 +1,36 @@
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.DangNhap.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.DanhMucThietBi.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.DatHang.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.LichSuDatHang.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.QuanLyNhanVien.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.QuanLyVatTu.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.SaoLuu.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.Panel.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.Properties.Resources.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.TrangChu.resources
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.csproj.GenerateResource.cache
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.csproj.CoreCompileInputs.cache
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\bin\Debug\BaiCK_QuanLyVatLieuXayDung.exe.config
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\bin\Debug\BaiCK_QuanLyVatLieuXayDung.exe
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\bin\Debug\BaiCK_QuanLyVatLieuXayDung.pdb
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.exe
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.pdb
+D:\TH XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.csproj.AssemblyReference.cache
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\bin\Debug\BaiCK_QuanLyVatLieuXayDung.exe.config
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\bin\Debug\BaiCK_QuanLyVatLieuXayDung.exe
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\bin\Debug\BaiCK_QuanLyVatLieuXayDung.pdb
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.csproj.AssemblyReference.cache
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.DangNhap.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.DanhMucThietBi.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.DatHang.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.LichSuDatHang.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.QuanLyNhanVien.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.QuanLyVatTu.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.SaoLuu.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.Panel.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.Properties.Resources.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.TrangChu.resources
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.csproj.GenerateResource.cache
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.csproj.CoreCompileInputs.cache
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.exe
+F:\Code\XML\BaiCK_QuanLyVatLieuXayDung\BaiCK_QuanLyVatLieuXayDung\obj\Debug\BaiCK_QuanLyVatLieuXayDung.pdb
